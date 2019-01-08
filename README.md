@@ -5,7 +5,7 @@ The end goal of this document is to explain LSTM by relating it to the simple fe
 ### LSTM Review
 
 LSTM stands for long short-term-memory. It is a type of recurrent neural network. A recurrent neural network can be explained with the following diagram:
-
+![title](data/recurrentnn.png)
 
 
 ```markdown
