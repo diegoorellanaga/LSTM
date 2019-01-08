@@ -8,6 +8,9 @@ LSTM stands for long short-term-memory. It is a type of recurrent neural network
 ![title](data/recurrentnnc.PNG)
 
 
+The purpose of the training is to find the 
+$E = mc^2$
+
 ```markdown
 Syntax highlighted code block
 
