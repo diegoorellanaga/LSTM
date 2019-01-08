@@ -8,12 +8,14 @@ LSTM stands for long short-term-memory. It is a type of recurrent neural network
 ![title](data/recurrentnnc.PNG)
 
 
-The purpose of the training is to find the 
+The purpose oh<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>xf the training is to find the 
+
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
 $E = mc^2$
 
 ```markdown
 Syntax highlighted code block
-
+h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
  # Header 1
  ## Header 2
  ### Header 3
