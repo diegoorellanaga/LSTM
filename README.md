@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## LSTM Explained
 
-You can use the [editor on GitHub](https://github.com/diegoorellanaga/LSTM/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The end goal of this document is to explain LSTM by relating it to the simple feedforward NN case. We do this by comparing LSTM with a feedforward NN. We will explain the parameters and dimension of the paremeters related to LSTM. We use keras with tensorflow for the examples.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### LSTM Review
 
-### Markdown
+LSTM stands for long short-term-memory. It is a type of recurrent neural network. A recurrent neural network can be explained with the following diagram:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
