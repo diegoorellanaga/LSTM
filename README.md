@@ -90,7 +90,7 @@ Next we are going to build a LSTM model with
 
 
 
-
+ # Pending... 
 
 
 h<sub>&theta;</sub>(x) = &theta;<sub>o</sub> x + &theta;<sub>1</sub>x
